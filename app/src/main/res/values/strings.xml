@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SensorAcelerometro</string>
+    <string name="Sensor">Sensor de proximidad</string>
+    <string name="pos1">Posicion normal</string>
+    <string name="acelerometro">Sensor Acelerometro</string>
+    <string name="sonido">Sonido 0</string>
+    <string name="btAcel">Ir a sensor acelerometro</string>
+    <string name="btProx">Ir a sensor proximidad</string>
+</resources>
